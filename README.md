@@ -1,6 +1,8 @@
 # locaton-map
 A Python/Folium creator of the geolocalisation map for the CSV representation of Nuclear Waste Sites on US Campuses
 
+![](https://github.com/manuelcaeiro/locaton-map/blob/master/screenshots/map1r.jpg)
+
 (With minor changes it will create a map from any other CSV file with latitude-longitude value pairs)
 
 # About the map
@@ -15,6 +17,8 @@ To make use of this program it is necessary a computer with Python 3 installed, 
 - Open and run the .py file. A file named "map\_nuclear\_on_campus.html" will be created in the same directory (folder);
 - Connected to the internet open the just created HTML file on a browser and the map should load (it was tested with Firefox, Chrome and Opera;)
 - Click on a mark to see the name of the corresponding site, zoom in to individualize agglomerates of marks, and further to check the names of the streets around a site.
+
+![](https://github.com/manuelcaeiro/locaton-map/blob/master/screenshots/map2r.jpg)
 
 # Licenses
 Copyright [2019] [J. Manuel Caeiro D. P.]
