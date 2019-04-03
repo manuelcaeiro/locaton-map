@@ -1,5 +1,5 @@
 # locaton-map
-A Python/Folium creator of the geolocalisation map for the CSV representation of Nuclear Waste Sites on US Campuses
+A Python/Folium generator of the geolocalisation map for the CSV representation of Nuclear Waste Sites on US Campuses
 
 ![](https://github.com/manuelcaeiro/locaton-map/blob/master/screenshots/map1r.jpg)
 
